@@ -1,0 +1,11 @@
+raytracer project done at Universite Toulouse III Paul Sabatier, France.
+
+raytracer.c and raytracer.h written by myself
+other files provided by the university
+
+compilation example:
+g++ -g -O3 vector.c scene.c main.c raytracer.c -lm -o mrt
+
+execution examples:
+scene number as well as output image name should be specified as such:
+./mrt 9 final_image
