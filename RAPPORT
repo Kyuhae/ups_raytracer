@@ -1,0 +1,9 @@
+Rayons Primaires OK
+Intersection Plans OK
+Intersection Spheres OK
+Eclairage Blinn Phong OK
+Ombres OK
+Reflets (niveau TP4) OK
+
+Descriptions de mes fonctions dans raytracer.h
+#includes de raytrace.c et .h modifiés.
